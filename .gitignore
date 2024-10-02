@@ -166,3 +166,6 @@ data_preprocessing/pik/
 
 #Ignore test notebooks
 data_preprocessing/see_nc.ipynb
+
+#Ignore helper scripts
+data_preprocessing/helpers/
