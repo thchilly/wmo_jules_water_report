@@ -169,3 +169,6 @@ data_preprocessing/see_nc.ipynb
 
 #Ignore helper scripts
 data_preprocessing/helpers/
+
+#Ignore the directory that is used to compare JULES with WordWideHYPE model
+jules_v_wwhype/
