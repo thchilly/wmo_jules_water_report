@@ -104,7 +104,7 @@ sfcWind = \sqrt{uas^2 + vas^2}
 - Include JULES model output scripts.
 
 ## Acknowledgements
-This work uses methods provided by **PIK** (Potsdam Institute for Climate Impact Research) for data remapping. It forms part of the **WMO Water Report** project.
+This work uses methods provided by **PIK** (Potsdam Institute for Climate Impact Research) for data remapping, ensuring consistency with existing ISIMIP datasets.
 
 ## License
 This repository is licensed under the MIT License. See `LICENSE` for details.
